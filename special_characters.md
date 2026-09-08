@@ -1,0 +1,210 @@
+# Emoji/Special Character list
+These are the ones I've found that work in the Luanti font. If you can find any others that are worth adding then submit an issue or pr on github.
+ -  ✦
+     - `four_pointed_star`
+     - `star4`
+ -  ✧
+     - `four_pointed_star_empty`
+     - `star4_empty`
+ -  ★
+     - `star`
+     - `five_pointed_star`
+     - `star5`
+ -  ☆
+     - `star_empty`
+     - `five_pointed_star_empty`
+     - `star5_empty`
+ -  ✴
+     - `six_pointed_star`
+     - `star6`
+ -  ✳
+     - `eight_spoked_asterisk`
+     - `asterisk8`
+ -  ❇ - `sparkle`
+ -  ☼ - `sun`
+ -  ♥ - `suit_heart`
+ -  ♡
+     - `heart_empty`
+     - `suit_heart_empty`
+ -  ♠ - `suit_spade`
+ -  ♤ - `suit_spade_empty`
+ -  ♣ - `suit_club`
+ -  ♧ - `suit_club_empty`
+ -  ♦ - `suit_diamond`
+ -  ♢ - `suit_diamond_empty`
+ -  ✔ - `check`
+ -  ✘ - `cross`
+ -  ✖
+     - `x`
+     - `X`
+ -  ╳ - `box_x`
+ -  ↑ - `arrow_up`
+ -  ↗ - `arrow_up_right`
+ -  → - `arrow_right`
+ -  ↘ - `arrow_down_right`
+ -  ↓ - `arrow_down`
+ -  ↙ - `arrow_down_left`
+ -  ← - `arrow_left`
+ -  ↖ - `arrow_up_left`
+ -  ↕ - `arrow_up_down`
+ -  ↔ - `arrow_left_right`
+ -  ➡ - `arrow_continue`
+ -  ↪ - `arrow_turn_right`
+ -  ↩ - `arrow_turn_left`
+ -  ♂ - `male`
+ -  ♀ - `female`
+ -  ☻ - `smile`
+ -  ☺ - `smile_empty`
+ -  ♩ - `quarter_note`
+ -  ♪ - `eigth_note`
+ -  ♫ - `beamed_eight_notes`
+ -  ♬ - `beamed_sixteenth_notes`
+ -  ♭ - `flat`
+ -  ♮ - `natural`
+ -  ♯ - `sharp`
+ -  ❄ - `snowflake`
+ -  ✈ - `airplane`
+ -  ♨ - `hotspring`
+ -  ✌
+     - `peace_hand`
+     - `v`
+ -  ✍ - `writing`
+ -  ☜ - `point_left`
+ -  ☞ - `point_right`
+ -  ☎
+     - `telephone`
+     - `phone`
+ -  ☏
+     - `telephone_empty`
+     - `phone_empty`
+ -  ✂ - `scissors`
+ -  ✏ - `pencil`
+ -  ✎ - `lower_right_pencil`
+ -  ✐ - `upper_right_pencil`
+ -  ✒ - `pen`
+ -  ✉
+     - `mail`
+     - `envelope`
+     - `letter`
+ -  ✡ - `star_of_david`
+ -  ✝
+     - `crucifix`
+     - `christian`
+ -  ™ - `trademark`
+ -  ® - `registered`
+ -  © - `copyright`
+ -  − - `minus`
+ -  ÷
+     - `divide`
+     - `div`
+ -  ×
+     - `multiply`
+     - `mult`
+ -  ≠
+     - `not_equal`
+     - `/=`
+     - `~=`
+     - `!=`
+ -  ≤
+     - `less_or_equal`
+     - `<=`
+     - `less_or_equal_to`
+     - `less_than_or_equal`
+     - `less_than_or_equal_to`
+ -  ≥
+     - `greater_or_equal`
+     - `>=`
+     - `greater_or_equal_to`
+     - `greater_than_or_equal`
+     - `greater_than_or_equal_to`
+ -  №
+     - `no`
+     - `#`
+     - `numero`
+ -  ❢ - `heavy_exclamation`
+ -  ❣ - `heavy_heart_exclamation`
+ -  ❤ - `heart`
+ -  ❥
+     - `heart_sideways`
+     - `rotated_heart`
+ -  ❦ - `floral_heart`
+ -  ❧
+     - `floral_heart_sideways`
+     - `rotated_floral_heart`
+ -  ɞ - `bean_left`
+ -  ʚ - `bean_right`
+ -  ♙ - `white_pawn`
+ -  ♔ - `white_king`
+ -  ♕ - `white_queen`
+ -  ♖ - `white_rook`
+ -  ♗ - `white_bishop`
+ -  ♘ - `white_knight`
+ -  ♟
+     - `black_pawn`
+     - `chess_pawn`
+     - `pawn`
+ -  ♚
+     - `black_king`
+     - `chess_king`
+     - `king`
+ -  ♛
+     - `black_queen`
+     - `chess_queen`
+     - `queen`
+ -  ♜
+     - `black_rook`
+     - `chess_rook`
+     - `rook`
+ -  ♝
+     - `black_bishop`
+     - `chess_bishop`
+     - `bishop`
+ -  ♞
+     - `black_knight`
+     - `chess_knight`
+     - `knight`
+ -  • - `bullet`
+ -  ◦ - `bullet_empty`
+ -  ▪ - `square_bullet`
+ -  ▫ - `square_bullet_empty`
+ -  ▬ - `heavy_hyphen`
+ -  ─ - `emdash`
+ -  ▶ - `triangle_right`
+ -  ▷ - `triangle_left_empty`
+ -  ◀ - `triangle_left`
+ -  ◁ - `triangle_right_empty`
+ -  ▲ - `triangle_up`
+ -  △ - `triangle_up_empty`
+ -  ▼ - `triangle_down`
+ -  ▽ - `triangle_down_empty`
+ -  ◣ - `triangle_down_left`
+ -  ◢ - `triangle_down_right`
+ -  ◤ - `triangle_up_left`
+ -  ◥ - `triangle_up_right`
+ -  ◆ - `diamond`
+ -  ◇ - `diamond_empty`
+ -  ◈ - `diamond_filled`
+ -  ◊ - `lozenge`
+ -  ❖ - `four_diamonds`
+ -  ● - `circle`
+ -  ○ - `circle_empty`
+ -  ◌ - `circle_no_diacritic`
+ -  ◯ - `circle_empty_large`
+ -  ◉ - `circle_filled`
+ -  ◎ - `circle_double`
+ -  ◐ - `circle_left_half`
+ -  ◑ - `circle_right_half`
+ -  ■ - `square`
+ -  □ - `square_empty`
+ -  ▣ - `square_filled`
+ -  ▤ - `square_lines_horizontal`
+ -  ▥ - `square_lines_vertical`
+ -  ▦ - `square_lines_double`
+ -  ▩ - `square_hatch_double`
+ -  ▧ - `square_hatch_left`
+ -  ▨ - `square_hatch_right`
+ -  ◘ - `square_circle_hole`
+ -  ◙ - `square_circle_outline`
+
+Last but not least:
+ -  ( ̊͜┕̊ ) - `gerard`
