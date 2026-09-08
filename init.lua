@@ -621,8 +621,3 @@ core.register_chatcommand("luect_test", {
         return true, luect.stress_test(stressLevel)
     end
 })
-
-core.register_on_chat_message(function(name, message)
-    core.chat_send_all("<"..name.."> "..luect.handle_markup(message))
-    return true
-end)
