@@ -1,4 +1,4 @@
-luect = {} -- Luanti, Colors, Emoji, and Through tags
+luect = {} -- Luanti Emoji, Colors, and Through tags
 
 local colESC = core.get_color_escape_sequence
 
