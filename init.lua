@@ -511,6 +511,11 @@ function luect.handle_markup(STRING, settings)
     }
     local errors = ""
 
+    -- Support for tables where each new string creates a new line
+    if type(STRING) == "table" then
+        str = table.concat(STRING, "\n")
+    end
+
     -- Initialize
     local tokens = luect.string_to_tokens(STRING)
 

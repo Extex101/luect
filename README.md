@@ -49,7 +49,7 @@
 
 ## Markup Handler
 - `luect.handle_markup(message, settings)`: returns rendered string, and errors string
-    * `message`: string to be processed.
+    * `message`: string to be processed. Can be a table `{"string1", "string2"}` making each string on a new line.
     * `settings`: see (Markup Settings)
 ```
 luect.handle_markup("\\red\\:triangle_up: WARNING: __LUECT__ HAS BEEN LOADED :triangle_up:")
