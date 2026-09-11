@@ -53,6 +53,7 @@
     * `settings`: see (Markup Settings)
 ```
 luect.handle_markup("\\red\\:triangle_up: WARNING: __LUECT__ HAS BEEN LOADED :triangle_up:")
+luect.handle_markup({"\\red\\:triangle_up:", "still red, wow."})
 ```
 
 

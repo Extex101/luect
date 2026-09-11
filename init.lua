@@ -513,7 +513,7 @@ function luect.handle_markup(STRING, settings)
 
     -- Support for tables where each new string creates a new line
     if type(STRING) == "table" then
-        str = table.concat(STRING, "\n")
+        STRING = table.concat(STRING, "\n")
     end
 
     -- Initialize
