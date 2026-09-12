@@ -2,7 +2,7 @@
 
 ## Misc Functions
 - `luect.lerp_colors(colors, t)`: returns interpolated hex code
-    * Interpolates nbetween the given colors
+    * Interpolates between the given colors
     * `colors`: is a table list of colors: `"#RRGGBB"` or `{r=0,g=0,b=0}`
     * `t`: percentage between 0-1
 
