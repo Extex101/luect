@@ -320,7 +320,7 @@ function luect.tokenize_colors(tokens, settings)
 
                         -- If gradient limit is set and number of tags exceed the limit, stop
                         -- Will still work with too many, it will just ignore the rest
-                        if settings.gradient_limit and #tags > settings.gradient_limit then
+                        if settings.gradient_limit and #tags >= settings.gradient_limit then
                             break
                         end
 
